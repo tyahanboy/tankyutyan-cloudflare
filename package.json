@@ -1,0 +1,16 @@
+{
+  "name": "tankyutyan-cloudflare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.node-reference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "keywords": [],
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^4.152.0"
+  }
+}
